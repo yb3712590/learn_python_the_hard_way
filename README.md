@@ -1,1 +1,1 @@
-#exercises in <<learn python the hard way>> book
+#exercises in \<\<learn python the hard way\>\> book
